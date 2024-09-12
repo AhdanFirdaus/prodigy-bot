@@ -1,3 +1,4 @@
 # Ignore configuration files
 config.py
 .env
+soal_ctf.py

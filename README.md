@@ -34,6 +34,14 @@ Untuk menampilkan informasi tentang soal tertentu, gunakan perintah:
 ```
 Ganti <nomor_soal> dengan nomor soal yang ingin dilihat. Bot akan mengirimkan deskripsi, kategori, penulis, poin, dan lampiran soal tersebut.
 
+📩 Mengirimkan Flag
+Untuk mengirimkan flag dan mendapatkan poin, gunakan perintah:
+
+```bash
+!submit <nomor_soal> <flag>
+```
+Ganti <nomor_soal> dengan nomor soal yang ingin Anda kirimkan flag-nya, dan <flag> dengan flag yang ingin Anda kirimkan. Bot akan memeriksa apakah flag yang Anda kirimkan benar dan memberikan konfirmasi hasil.
+
 ✅ Melihat Status Soal
 Untuk melihat status soal yang sudah diselesaikan dan total poin yang dikumpulkan, gunakan perintah:
 
